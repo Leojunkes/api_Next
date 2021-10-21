@@ -5,6 +5,8 @@ const fotos = [
   { id: 2, imagem: '/imagens/leodoc1.jpg' },
   { id: 3, imagem: '/imagens/sangueleo.jpg' },
   { id: 4, imagem: '/imagens/vacinaleo.jpg' },
+  { id: 5, imagem: '/imagens/gallmont.png' },
+  
 ];
 console.log({ fotos });
 

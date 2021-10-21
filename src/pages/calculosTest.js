@@ -83,6 +83,10 @@ export default function Calculos() {
           calcular
         </Button>
       </Table>
+      <a href="https://api.whatsapp.com/send?phone=5548991782275&text=oi%20eu%20sou%20voc%C3%AA%2C%20kaka">
+      <Button>aperte amada</Button>
+      </a>
+      
     </Flex>
   );
 }
